@@ -21,3 +21,4 @@ ipykernel
 validators
 youtube_transcript_api
 unstructured
+numexpr
